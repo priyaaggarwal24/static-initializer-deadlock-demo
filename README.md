@@ -1,0 +1,1 @@
+# static-initiazer-blocking-demo
